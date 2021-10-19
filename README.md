@@ -1,6 +1,7 @@
 # fetchanime-cli
 
 CLI tool used to browse and retrieve sources using AniKimi API.
+![screenshot](https://cdn.upload.systems/uploads/WKUAHiDZ.png)
 
 ### Download
 ``git clone https://github.com/Profility/fetchanime-cli.git``
