@@ -16,7 +16,7 @@ CLI tool used to browse and retrieve sources using AniKimi API.
   * A `.txt` file will be downloaded.
   * In the `.txt` file, find the name "gogoanime" and "auth". [Refer Image](https://github.com/BaraniARR/anikimiapi/blob/main/assets/2.jpg).
   * Copy the respective tokens on the right side of the above names.
-  * Paste the tokens in settings.json
+  * Paste the tokens in `settings.json`
   
 #### Dependencies
 * #### Installing dependencies
