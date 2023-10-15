@@ -1,3 +1,5 @@
+# MADE THIS WHEN I WAS STILL LEARNING, CONTAINS THE MOST BAD CODE IVE EVER WRITTEN LOL
+
 <img height=300 src="https://cdn.upload.systems/uploads/WKUAHiDZ.png">
 
 # fetchanime-cli
